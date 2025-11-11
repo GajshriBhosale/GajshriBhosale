@@ -36,7 +36,7 @@ Driven by curiosity, innovation, and continuous learning.
   <a href="https://github.com/GajshriBhosale">
    
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   ![Powerbi](https://img.shields.io/badge/powerbi-%23150458.svg?style=for-the-badge&logo=powerbi&logoColor=white) ![Github](https://img.shields.io/badge/github-%2300f.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%2338B2AC.svg?style=for-the-badge&logo=git&logoColor=white)
-![Latex](https://img.shields.io/badge/latex-%2320232a.svg?style=for-the-badge&logo=latex&logoColor=%2361DAFB)  ![Canva](https://img.shields.io/badge/canva-%23ED8B00.svg?style=for-the-badge&logo=canva&logoColor=white) 
+  ![Canva](https://img.shields.io/badge/canva-%23ED8B00.svg?style=for-the-badge&logo=canva&logoColor=white) 
   </a>
 </p>
 
@@ -46,19 +46,19 @@ Driven by curiosity, innovation, and continuous learning.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/divya-patil132">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=divya-patil132&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divya-patil132&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divya-patil132&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divya-patil132&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divya-patil132&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GajshriBhosale&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?usernameGajshriBhosale&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GajshriBhosale&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GajshriBhosale&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GajshriBhosale&theme=2077" height="180em" />
 </div>
 
 
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=divya-patil132&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-patil132&theme=dark&hide_border=true&layout=compact"></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=GajshriBhosale&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GajshriBhosale&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
 
@@ -87,7 +87,7 @@ No Activity Tracked This Week
 -->
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divya-patil132&" alt="divya-patil132" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GajshriBhosale&" alt="GajshriBhosale" /></p>
 Show some ❤️ by starring some of the repositories!
 
 </div>
