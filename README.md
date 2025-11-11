@@ -1,10 +1,10 @@
 
-<h1 align="center">Heyy👋, I'm Divya</h1>
-<h3 align="center">A passionate Java Developer</h3>
+<h1 align="center">Heyy👋, I'm Gajshri Bhosale</h1>
+<h3 align="center">A passionate Java Fullstack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divya-patil132&label=Profile%20views&color=0e75b6&style=flat" alt="divya-patil132" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GajshriBhosale&label=Profile%20views&color=0e75b6&style=flat" alt="GajshriBhosale" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divya-patil132" alt="divya-patil132" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GajshriBhosale" alt="GajshriBhosale" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -12,15 +12,17 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Divya+Patil;A+Full+stack+Web+dev;Currently+exploring+the+world+of+AI" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Gajshri+Bhosale;A+Full+stack+Web+dev;Currently+exploring+the+world+of+AI" />
 
          
 ### Glad to see you here! 🤩 &nbsp; 
 
->I am looking for opportunities and collabaration in projects related to Data Science, Machine Learning, Web-Development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently working on Data Science and Java🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
+>Full Stack Developer specializing in Java and modern front-end frameworks.
+Focused on crafting clean, maintainable code and responsive designs.
+Driven by curiosity, innovation, and continuous learning.
 
 
-<h3>☘️ Currently working on<a href="https://github.com/divya-patil132/Permissy"> Java !!</a></h3>   
+<h3>☘️ Currently working on<a href="https://github.com/GajshriBhosale/"> Java !!</a></h3>   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
