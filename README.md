@@ -2,15 +2,6 @@
 <h1 align="center">Heyy👋, I'm Gajshri Bhosale</h1>
 <h3 align="center">A passionate Java Fullstack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GajshriBhosale&label=Profile%20views&color=0e75b6&style=flat" alt="GajshriBhosale" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GajshriBhosale" alt="GajshriBhosale" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-<div align="center">
-
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Gajshri+Bhosale;A+Full+stack+Web+dev;Currently+exploring+the+world+of+AI" />
 
